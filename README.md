@@ -28,17 +28,17 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212005955/Flavor-Soda-Stories-Campaign-2-Landing-Page" target="_blank" >
-<img src="./img/Flavor-Soda-Landinh-page-desktop.gif" width="575px"/>
+<img src="./img/Flavor-Soda-langinh-page-desktop.gif" width="575px"/>
 </a>
 <br/>
 <span>Tablet Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212005955/Flavor-Soda-Stories-Campaign-2-Landing-Page" target="_blank" >
-<img src="./img/Flavor-Soda-Landinh-page-tablet.gif" alt="Flavor Soda-landing-page" width="375px" />
+<img src="./img/Flavor-Soda-langinh-page-tablet.gif" alt="Flavor Soda-landing-page" width="375px" />
 </a>
 
 <span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212005955/Flavor-Soda-Stories-Campaign-2-Landing-Page" target="_blank" >
-<img src="./img/Flavor-Soda-Landinh-page-mobile.gif" alt="Flavor Soda-landing-page" width="275px" />
+<img src="./img/Flavor-Soda-langinh-page-mobile.gif" alt="Flavor Soda-landing-page" width="275px" />
 </a>
 
 
